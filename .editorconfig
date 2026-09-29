@@ -68,3 +68,4 @@ dotnet_diagnostic.IDE0305.severity = none # Use collection expression for fluent
 dotnet_diagnostic.S2368.severity = none # Make this constructor private or simplify its parameters
 dotnet_diagnostic.S2955.severity = warning # Use a comparison to 'default(T)'
 dotnet_diagnostic.S3358.severity = none # Extract this nested ternary operation into an independent statement
+dotnet_diagnostic.S6966.severity = error # await .XyzAsync() instead
